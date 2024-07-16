@@ -1,4 +1,5 @@
 # Days of sprig
+> Starts from Less confortable 30 days, if you think easy, go to Less confortable 10 days, if you still think easy, go to More confortable.
 
 ## Less confortable
 There's nothing wrong to be less confortable! I reccomend starting from Less confortable. Less confortable provides more details and easier projects.
