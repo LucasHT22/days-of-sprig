@@ -77,11 +77,38 @@ bitmap`` in details:
 
 [](https://cloud-5qgyipwwp-hack-club-bot.vercel.app/0image.png)
 
+Brush
+Paint a square
 
+Line
+Draw a line
+
+Box
+Draw a square/rectangle
+
+Elipse
+Draw a elipse
+
+Paint Bucket
+Fill area with one color
+
+Color Swap Bucket
+Switch colors
+
+Move
+Self explanatory
+
+Color Picker
+Pick a color
+
+Rotate, Mirror, Horizontal Flip, Vertical Flip
+Self explanatory.
 
 ### let
 
 [](https://cloud-mumr89gqu-hack-club-bot.vercel.app/3frame_9.jpg)
+
+According to MDN Web Docs, let declares re-assignable, block-scoped local variables, optionally initializing each to a value.
 
 ### setMap()
 
