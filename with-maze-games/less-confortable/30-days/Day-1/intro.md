@@ -41,16 +41,43 @@ According to MDN Web Docs, the const declaration declares local variables. The v
 
 [](https://cloud-mumr89gqu-hack-club-bot.vercel.app/0frame_5.jpg)
 
+map`` is a graphical interface for assembling maps (exclusive to Sprig), in it we place Sprites, in bitmaps, which we will see later.
+
+> What is a Sprite?
+> Not the soda! haha. Sprites are images used in games to represent objects.
+
+[](https://cloud-arj1hanfz-hack-club-bot.vercel.app/0image.png)
+
 ### setLegend()
 
+[](https://cloud-mumr89gqu-hack-club-bot.vercel.app/1frame_6.jpg)
+
+setLegend() is a premade function that stores your Sprites.
+
+Here's the structure:
+
+```js
+setLegend(
+  [ variable, bitmap`.` ]); // the variable is the one you declared in Const
+```
 
 > What is a function?
-
-[](https://cloud-mumr89gqu-hack-club-bot.vercel.app/1frame_6.jpg)
+> According to MDN Web Docs, a function in JavaScript is similar to a procedure—a set of statements that performs a task or calculates a value, but for a procedure to qualify as a function, it should take some input and return an output where there is some obvious relationship between the input and the output.
 
 ### bitmap``
 
 [](https://cloud-mumr89gqu-hack-club-bot.vercel.app/2frame_7.jpg)
+
+bitmap`` is a graphical interface for assembling Sprites (exclusive to Sprig), it's a 16x16 tile-based Sprite.
+
+> What is a tile-based Sprite?
+> Are Sprites made of squares, hexagons or rectangles
+
+bitmap`` in details:
+
+[](https://cloud-5qgyipwwp-hack-club-bot.vercel.app/0image.png)
+
+
 
 ### let
 
